@@ -12,7 +12,7 @@ TaskFlow, tapşırıqlarınızı asanlıqla idarə etmək və izləmək üçün 
 Layihənin hazırlanmasında istifadə olunan əsas alətlər:
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Auth:** Google Firebase / OAuth
-- **Backend/Database:** Firebase Firestore (və ya istifadə etdiyin digər DB)
+- **Backend/Database:** Firebase Firestore 
 - **Version Control:** Git & GitHub
 
 ## 🚀 İstifadə Qaydası
